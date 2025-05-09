@@ -1,16 +1,36 @@
-# railway_complaint_tracker
+# 🚆 Smart Railway Complaint & Feedback Tracker (Flutter + Spring Boot)
 
-A new Flutter project.
+This is a basic full-stack application that allows users to file and view complaints related to railway services.
 
-## Getting Started
+## 🔧 Technologies Used
 
-This project is a starting point for a Flutter application.
+### ✅ Frontend (Flutter)
+- Dart
+- Flutter SDK
+- HTTP package
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Backend (Spring Boot)
+- Java
+- Spring Boot (REST APIs)
+- H2 / MySQL Database
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+
+- 📝 Submit new complaints via a form
+- 📋 View all submitted complaints
+- 📤 Connects with backend APIs for data storage & retrieval
+
+---
+
+## 🚀 Getting Started (Frontend)
+
+1. Install Flutter: https://docs.flutter.dev/get-started/install
+2. Clone this repo
+3. Navigate to the project directory:
+
+```bash
+cd railway_complaint_tracker
+flutter pub get
+flutter run -d chrome
