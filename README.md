@@ -34,9 +34,9 @@ This is a basic full-stack application that allows users to file and view compla
 cd railway_complaint_tracker
 flutter pub get
 flutter run -d chrome
----
+```
 
-### 🔙 Backend Setup (Spring Boot)
+## 🔙 Backend Setup (Spring Boot)
 Available in /complaint-tracker folder (Spring Boot project)
 
 Import into IntelliJ / Eclipse
