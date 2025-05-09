@@ -34,3 +34,20 @@ This is a basic full-stack application that allows users to file and view compla
 cd railway_complaint_tracker
 flutter pub get
 flutter run -d chrome
+---
+
+### 🔙 Backend Setup (Spring Boot)
+Available in /complaint-tracker folder (Spring Boot project)
+
+Import into IntelliJ / Eclipse
+
+Run ComplaintTrackerApplication.java
+
+API will be available at http://localhost:8080/api/complaints
+
+---
+
+## 📬 Feedback
+Feel free to raise issues or submit pull requests to contribute!
+
+
